@@ -2,7 +2,7 @@ module.exports.config = {
   name: "adminmention",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "ECSZ-CEO-RASEL",
   description: "Bot will reply only when someone directly mentions an admin",
   commandCategory: "Other",
   usages: "@",
@@ -11,7 +11,7 @@ module.exports.config = {
 
 module.exports.handleEvent = function({ api, event }) {
   const adminIDs = [
-    "100089047474463",
+    "61592402619642",
     "100001039692046",
     "100044713412032"
   ].map(String);
