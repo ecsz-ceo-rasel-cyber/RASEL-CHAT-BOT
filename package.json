@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "rasel-chat-bot",
   "version": "2.0.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By ECSZ CEO RASEL",
   "main": "Main.js",
   "engines": {
     "node": "22.x",
@@ -27,7 +27,7 @@
     "shahadat sahu",
     "shahadat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "ECSZ RASEL",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
